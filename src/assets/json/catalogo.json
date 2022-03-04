@@ -1,0 +1,162 @@
+[
+  {
+    "id": 122,
+    "name": "SOBREMESAS",
+    "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/category/image/122/1e5fb805202201171237_3Cv4_i.png",
+    "status": "ACTIVE",
+    "items": [
+      {
+        "id": 700,
+        "name": "MEGA FLURRY M&M'S COM CALDA DE CHOCOLATE",
+        "description": "Novidade! O dobro de massa gelada, um exagero de calda de chocolate, deliciosos confetes de chocolate ao leite M&M's, uma combinação deliciosa de sabores.",
+        "price": 24.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/700/5755dd1b202111241451_EO2R_i.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/700/thumb_5755dd1b202111241451_EO2R_i.png"
+      },
+      {
+        "id": 701,
+        "name": "MCFLURRY M&M'S COM CALDA DE CHOCOLATE",
+        "description": "Deliciosa massa gelada, calda de chocolate, deliciosos confetes de chocolate ao leite M&M's, uma combinação deliciosa de sabores.",
+        "price": 13.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/701/9eaa31723.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/701/thumb_9eaa31723.png"
+      },
+      {
+        "id": 702,
+        "name": "MCFLURRY KITKAT COM CALDA DE CARAMELO",
+        "description": "Uma sobremesa irresistível com massa gelada, pedacinhos de Kitkat e com a deliciosa calda de caramelo do Méqui.",
+        "price": 13.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/702/63983d934.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/702/thumb_63983d934.png"
+      },
+      {
+        "id": 703,
+        "name": "MCFLURRY OVOMALTINE ROCKS",
+        "description": "Massa gelada, calda de chocolate, Ovomaltine em pó e pedaços crocantes de Ovomaltine rocks.",
+        "price": 13.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/703/ba5730ed5.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/703/thumb_ba5730ed5.png"
+      },
+      {
+        "id": 704,
+        "name": "TOP SUNDAE CHOCOLATE",
+        "description": "Uma delícia gelada de baunilha com cobertura de chocolate e uma deliciosa farofa de paçoca.",
+        "price": 10.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/704/08fd64876.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/704/thumb_08fd64876.png"
+      },
+      {
+        "id": 705,
+        "name": "TOP SUNDAE CARAMELO",
+        "description": "Uma delícia gelada de baunilha com cobertura de caramelo e uma deliciosa farofa de paçoca.",
+        "price": 10.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/705/b94113327.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/705/thumb_b94113327.png"
+      },
+      {
+        "id": 706,
+        "name": "TOP SUNDAE MORANGO",
+        "description": "Uma delícia gelada de baunilha com cobertura de morango e uma deliciosa farofa de paçoca.",
+        "price": 10.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/706/84d5da528.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/706/thumb_84d5da528.png"
+      },
+      {
+        "id": 707,
+        "name": "SUNDAE CHOCOLATE",
+        "description": "Uma cremosa massa gelada de baunilha coberta com uma divina calda de chocolate.\r\n",
+        "price": 10.9,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/707/a516caf19.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/707/thumb_a516caf19.png"
+      },
+      {
+        "id": 708,
+        "name": "SUNDAE CARAMELO",
+        "description": "Uma cremosa massa gelada de baunilha coberta com uma divina calda de caramelo.",
+        "price": 8.5,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/708/d3ead5eb10.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/708/thumb_d3ead5eb10.png"
+      },
+      {
+        "id": 709,
+        "name": "SUNDAE MORANGO",
+        "description": "Uma cremosa massa gelada de baunilha coberta com uma divina calda de morango.",
+        "price": 8.5,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/709/ffc619f911.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/709/thumb_ffc619f911.png"
+      },
+      {
+        "id": 710,
+        "name": "TORTA DE MAÇÃ",
+        "description": "Deliciosa torta de massa quentinha e crocante com recheio de maçã.",
+        "price": 8.5,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/710/430dbe3f12.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/710/thumb_430dbe3f12.png"
+      },
+      {
+        "id": 711,
+        "name": "TORTA DE BANANA",
+        "description": "Deliciosa torta de massa quentinha e crocante com recheio de banana.",
+        "price": 8.5,
+        "status": "ACTIVE",
+        "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/711/c6c7ebff13.png",
+        "thumbnail_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/item/image/711/thumb_c6c7ebff13.png"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "BEBIDAS",
+    "image_url": "https://storage.googleapis.com/dev-cardapio-web/uploads/category/image/123/1ac9b00a202201171237_3Cv4_i.png",
+    "status": "ACTIVE",
+    "items": [
+      {
+        "id": 712,
+        "name": "MCSHAKE OVOMALTINE 400ML",
+        "description": "O novo McShake é feito com leite e batido na hora com o delicioso Ovomaltine.",
+        "price": 16.9,
+        "status": "ACTIVE",
+        "image_url": null,
+        "thumbnail_url": null
+      },
+      {
+        "id": 713,
+        "name": "MCSHAKE CHOCOLATE KOPENHAGEN 400ML",
+        "description": "O novo McShake é feito com leite e batido na hora com o delicioso chocolate Kopenhagen.",
+        "price": 16.9,
+        "status": "ACTIVE",
+        "image_url": null,
+        "thumbnail_url": null
+      },
+      {
+        "id": 714,
+        "name": "MCSHAKE MORANGO 400ML",
+        "description": "O novo McShake é feito com leite e batido na hora com calda de morango.",
+        "price": 16.9,
+        "status": "ACTIVE",
+        "image_url": null,
+        "thumbnail_url": null
+      },
+      {
+        "id": 715,
+        "name": "ÁGUA GARRAFA 500ML",
+        "description": "Levíssima, saudável e refrescante.\r\nPara quem gosta de matar a sede do jeito mais natural que existe.",
+        "price": 9.9,
+        "status": "ACTIVE",
+        "image_url": null,
+        "thumbnail_url": null
+      }
+    ]
+  }
+]
